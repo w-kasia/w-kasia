@@ -1,6 +1,4 @@
 <h1>Hi there 👋</h1>
-![flork-in-love-hand-drawn](https://github.com/w-kasia/w-kasia/assets/121196574/f0645c06-9830-4658-9ee1-0a5d35afb46e)
-
 
 
 <h4>My name is Kasia and I'm a self-taught Frontend Developer.</h4>
