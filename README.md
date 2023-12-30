@@ -3,13 +3,11 @@
 
 <h4>My name is Kasia and I'm a self-taught Frontend Developer.</h4>
 <img src="https://github.com/w-kasia/w-kasia/assets/121196574/ff94aa14-1e99-46aa-bc73-35c45382ba28" width="38"/>
-<img src="https://github.com/w-kasia/w-kasia/assets/121196574/50935b49-2153-4eca-89d9-f277fd0558c4" width="38"/>
-
 <img src="https://github.com/w-kasia/w-kasia/assets/121196574/54e88c75-b8ee-4f84-9ba6-3f409700635b" width="38"> 
 <h4>About my projects</h4>
 
 <img src="https://github.com/w-kasia/Baczynski/assets/121196574/a5713fe4-772d-4041-8b95-e85fa61665bb" width="500">
-
+<img src="https://github.com/w-kasia/w-kasia/assets/121196574/50935b49-2153-4eca-89d9-f277fd0558c4" width="500"/>
 
 
 <img src="https://github.com/w-kasia/w-kasia/assets/121196574/28af4812-7e4b-4287-a359-0fca52e9ef27" width="38"> 
