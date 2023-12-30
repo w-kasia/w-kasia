@@ -8,6 +8,8 @@
 <img src="https://github.com/w-kasia/w-kasia/assets/121196574/54e88c75-b8ee-4f84-9ba6-3f409700635b" width="38"> 
 <h4>About my projects</h4>
 
+<img src="https://github.com/w-kasia/Baczynski/assets/121196574/a5713fe4-772d-4041-8b95-e85fa61665bb" width="500">
+
 
 
 <img src="https://github.com/w-kasia/w-kasia/assets/121196574/28af4812-7e4b-4287-a359-0fca52e9ef27" width="38"> 
